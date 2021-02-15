@@ -1,0 +1,36 @@
+body {
+      text-align: center;
+      background-image: url("meditar.jpg");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+}
+header {
+    background-color: white;
+    font: bold 30px Arial; 
+    opacity: 75%;  
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    height: 75px;
+
+}
+section {
+    background-color: white;
+    color: black;
+    font: bold 18px Arial;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+    opacity: 65%;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
